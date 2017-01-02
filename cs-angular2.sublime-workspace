@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"powe",
+				"power-list"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"si",
+				"sizeEvent\tproperty"
+			],
+			[
+				"Event",
+				"EventEmitter\talias"
+			],
+			[
+				"App",
+				"AppSize\talias"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "export class Test{}",
+			"settings":
+			{
+				"buffer_size": 19,
+				"line_ending": "Unix",
+				"name": "export class Test{}"
+			}
+		},
+		{
+			"file": "app/search/search.ts",
+			"settings":
+			{
+				"buffer_size": 734,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package ",
+		"selected_items":
+		[
+			[
+				"Package ",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"pac con:in",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pac con",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/appdir/Github/cs-angular2",
+		"/appdir/Github/cs-angular2/app",
+		"/appdir/Github/cs-angular2/app/documents",
+		"/appdir/Github/cs-angular2/app/search"
+	],
+	"file_history":
+	[
+		"/appdir/Github/cs-angular2/app/documents/document.component.ts",
+		"/appdir/Github/cs-angular2/app/users/user.component.ts",
+		"/appdir/Github/cs-angular2/app/search/search.service.ts",
+		"/appdir/Github/cs-angular2/app/search/search.ts",
+		"/appdir/Github/cs-angular2/app/data/search.json",
+		"/appdir/Github/cs-angular2/app/search/search-result.html",
+		"/appdir/Github/cs-angular2/app/users/user.js",
+		"/appdir/Github/cs-angular2/index.html",
+		"/appdir/Github/cs-angular2/app/entitlement.module.ts",
+		"/appdir/Github/angular-quickstart/angular-learn/index.html",
+		"/appdir/Github/cs-angular2/app/users/user.service.ts",
+		"/appdir/Github/cs-angular2/app/documents/document.service.ts",
+		"/appdir/Github/cs-angular2/app/documents/document-list.html",
+		"/appdir/Github/cs-angular2/app/users/users-list.html",
+		"/appdir/Github/cs-angular2/app/users/user.ts",
+		"/appdir/Github/cs-angular2/app/entitlement.module.js",
+		"/appdir/Github/cs-angular2/app/data/users.json",
+		"/appdir/Github/cs-angular2/app/document.service.ts",
+		"/appdir/Github/cs-angular2/app/document.ts",
+		"/appdir/Github/cs-angular2/app/document.component.ts",
+		"/appdir/Github/cs-angular2/app/templates/document-list.html",
+		"/appdir/Github/cs-angular2/resources/styles/bootstrap.css",
+		"/appdir/Github/cs-angular2/app/rxjs-extensions.ts",
+		"/appdir/Github/cs-angular2/app/entitlement.component.ts",
+		"/appdir/Github/cs-angular2/app/entitlement.service.ts",
+		"/appdir/Github/cs-angular2/app/entitlement.ts",
+		"/appdir/Github/cs-angular2/app/data/entitlements.json",
+		"/appdir/Github/cs-angular2/app/templates/entitlement-list.html",
+		"/appdir/Github/angular-quickstart/angular-learn/app/app.service.ts",
+		"/appdir/Github/cs-angular2/app/main.ts",
+		"/appdir/Github/angular-quickstart/angular-learn/app/hero-form.html",
+		"/appdir/Github/angular-quickstart/angular-learn/app/app.module.ts",
+		"/appdir/Github/angular-quickstart/angular-learn/app/app.component.ts",
+		"/appdir/Github/angular-quickstart/angular-learn/node_modules/@angular/platform-browser-dynamic/src/platform-browser-dynamic.d.ts",
+		"/appdir/Github/angular-quickstart/angular-learn/app/main.ts",
+		"/appdir/Github/cs-angular2/package.json",
+		"/appdir/Github/cs-angular2/tsconfig-aot.json",
+		"/appdir/Github/cs-angular2/systemjs.config.js",
+		"/appdir/Github/angular-quickstart/angular-learn/app/main.js",
+		"/appdir/Github/angular-quickstart/angular-learn/app/Hero.form.component.ts",
+		"/appdir/Github/angular-quickstart/angular-learn/package.json",
+		"/appdir/Github/angular-quickstart/angular-learn/app/learning-app.html",
+		"/Users/purnimakamath/Downloads/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/appdir/Github/angular-quickstart/angular-learn/app/Hero.ts",
+		"/appdir/Github/angular-quickstart/angular-learn/resources/styles/styles.css",
+		"/appdir/Github/angular-quickstart/angular-learn/app/Hero.form.component.js",
+		"/appdir/Github/angular-quickstart/angular-learn/systemjs.config.js",
+		"/appdir/Github/angular-quickstart/angular-learn/styles.css",
+		"/Users/purnimakamath/Downloads/bootstrap-3.3.7-dist/css/bootstrap.min.css",
+		"/Users/purnimakamath/Downloads/bootstrap-3.3.7-dist/css/bootstrap.min.css.map",
+		"/appdir/Github/angular-quickstart/angular-learn/tsconfig-aot.json",
+		"/appdir/Github/angular-quickstart/angular-learn/app/app.component.js",
+		"/appdir/Github/angular-quickstart/angular-learn/app/app.size.component.ts",
+		"/appdir/Github/angular-quickstart/angular-learn/app/app.logger.ts",
+		"/appdir/Github/angular-quickstart/angular-learn/app.size.component.js",
+		"/appdir/Github/angular-quickstart/quickstart/app/app.module.ts",
+		"/appdir/Github/angular-quickstart/quickstart/protractor.config.js",
+		"/appdir/Github/test/SomeOtherTest.txt",
+		"/appdir/Github/test/TestingIgnore.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auto",
+			"\\t",
+			"\\n",
+			">\n",
+			"\t\t",
+			"\\n",
+			"/n",
+			"\\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "export class Test{}",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/search/search.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cs-angular2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

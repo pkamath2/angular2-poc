@@ -1,0 +1,44 @@
+#main-div{
+  padding: 10px;
+}
+
+.ui-autocomplete {
+    position: absolute;
+    z-index: 1000;
+    cursor: default;
+    margin-top: 2px;
+    list-style: none;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.section-left-right-borders {
+	border-left: 3px solid #ccc;
+	border-right: 3px solid #ccc;
+}
+
+.section-left-borders {
+  border-left: 3px solid #ccc;
+}
+
+nav a {
+  padding: 10px 10px;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #eee;
+}
+nav a:visited, a:link {
+  color: #607D8B;
+  
+}
+nav a:hover {
+  color: #039be5;
+  background-color: #CFD8DC;
+}
+nav a.active {
+  color: #039be5;
+  background-color: #fff;
+  border-bottom: solid teal 5px;
+}

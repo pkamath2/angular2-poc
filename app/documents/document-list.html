@@ -1,0 +1,23 @@
+<h4>Document Criteria Results</h4>
+<table class="table table-striped table-bordered">
+	<thead>
+		<tr>
+			<th>Document ID</th>
+			<th>Document Title</th>
+			<th>Document Publication Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr *ngFor="let doc of documents">
+			<td>{{doc.document_id}}</td>
+			<td><a href="{{doc.document_url}}">{{doc.document_title}}</a></td>
+			<td>{{doc.publication_date}}</td>
+		</tr>
+	</tbody>
+
+</table>
+<!--
+document_id: string;
+	document_title: string;
+	publication_date: string;
+	document_url: string;-->

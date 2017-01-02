@@ -1,0 +1,16 @@
+<label for="searchUserBox">User Criteria</label>
+<input type="text" #searchUserBox class="form-control" placeholder="Search for User Criteria" (keyup)="search(searchUserBox.value)">
+<div class="ui-autocomplete">
+	<div *ngFor="let user of searchResult_users | async">{{searchResult_users}}</div>
+	<!--<div *ngFor="let user of searchResult.users">{{user.full_name}}</div>-->
+</div>
+
+<br/>
+<label for="searchDocumentBox">Document Criteria</label>
+<input type="text" #searchDocumentBox class="form-control" placeholder="Search for Document Criteria" (keyup)="search(searchDocumentBox.value)">
+<div class="ui-autocomplete">
+	<div *ngFor="let user of searchResult_users | async">{{searchResult_users}}</div>
+	<!--<div *ngFor="let user of searchResult.users">{{user.full_name}}</div>-->
+</div>
+
+<br/><br/>
